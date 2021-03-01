@@ -1,0 +1,12 @@
+- Admin
+  - Ban
+  - Unban
+  - Kick
+  - Warn
+  - Mute
+
+- Ticket Bot
+  + React to open ticket?
+
+- Welcome/GoodBye message
+- Add logs (from bans/kicks etc or from messages being deleted or edited)
